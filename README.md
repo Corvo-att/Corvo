@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Ashraf</h1>
 <h3 align="center">A passionate Systems Analyst with an IOT niche</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corvo-att" alt="corvo-att" /></a> </p>
-
 - 🔭 I’m currently working on [My university Alumni page](https://alumni-updated.vercel.app)
 
 - 🌱 I’m currently learning **A lot of things XD**
